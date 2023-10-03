@@ -1,2 +1,2 @@
-# Social_network_analysis
-Diabtics Facebook group's analysis
+# Abstract
+This study explores the use of Social Network Analysis (SNA) to analyze the structure and dynamics of a Facebook group focused on diabetes in Morocco. The aim of the study is to gain insights into the experiences and needs of people with diabetes in Morocco and to identify potential areas for improvement in terms of support and resources. For more detailes about data collection, cleaning, analysis, and results of the study check out the *Article.pdf* file.
